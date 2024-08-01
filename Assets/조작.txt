@@ -1,0 +1,9 @@
+__Scenes폴더 -> SampleScene 더블클릭 후 Play
+
+조작 : AD or 화살표 좌우 + 스페이스바(좌상단 게이지가 가득차고 누르면 무적)
+
+게임 시간 조절 : Hierarchy창 -> Canvas의 Inspector창 -> UI Controller(Script)의 Time 변경
+
+
+그 외 판정 및 시간 조절은 스크립트를 하나씩 열어보면..
+
